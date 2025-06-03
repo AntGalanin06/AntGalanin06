@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px" alt="hello"/>
-  
-  <h1>
-    Hi, I'm Anton Galanin!
-  </h1>
-
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="hello"/>
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=490&lines=Hi%2C+I'm+Anton!;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
@@ -17,7 +16,7 @@
   </h2>
 
   <!-- Backend & Languages -->
-  <h3>Backend & Languages</h3>
+  <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,nodejs,express,fastapi&theme=dark" />
 
   <!-- Frontend & Design -->
@@ -37,8 +36,8 @@
     GitHub Stats
   </h2>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntGalanin06&show_icons=true&theme=github-dark&title_color=3fb950&icon_color=3fb950&text_color=ffffff&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntGalanin06&layout=compact&langs_count=7&theme=github-dark&title_color=3fb950&text_color=ffffff&bg_color=00000000&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntGalanin06&show_icons=true&theme=github-dark&title_color=3fb950&icon_color=3fb950&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntGalanin06&layout=compact&langs_count=7&theme=github-dark&title_color=3fb950&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true"/>
 </div>
 
 ---
@@ -46,7 +45,7 @@
 <div align="center">
   <h2>
     <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6NTV3OTdlOG5kMzFpc2FvOGhlMzlwdjJ1aWtiY3A0bnM5amVwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFb9yZK6t0oDu/giphy.gif' width='30' height='30'/>
-    Connect With Me
+    How to contact me
   </h2>
 
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@galanin-nn.ru)
