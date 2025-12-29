@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AntGalanin06&show_icons=true&theme=transparent&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntGalanin06&layout=compact&theme=transparent&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=antgalanin&show_icons=true&theme=transparent&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antgalanin&layout=compact&theme=transparent&hide_border=true)
 
 </div>
